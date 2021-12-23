@@ -1,4 +1,4 @@
-### olá! Eu sou a Stella Hada
+### olá! Eu sou a Stella  ☺
 
 <div>
   <a href="https://github.com/stellahada">
@@ -11,3 +11,5 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ 
+  ! [animação de cobra] (https://github.com/stellahada/stellahada/blob/output/github-contribuition-grid-snake.svg)
