@@ -1,4 +1,4 @@
-
+nome: gerar dados
 
 on:
   schedule: # execute every 12 hours
