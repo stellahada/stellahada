@@ -1,4 +1,4 @@
-### olá! eu sou a Stella ☺
+### olá eu sou a stella
 
 <div align = "center">
   <a href="https://github.com/stellahada">
