@@ -13,4 +13,4 @@
    
   </div>
   
-![](https://raw.githubusercontent.com/stellahada/stellahada/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/stellahada/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
