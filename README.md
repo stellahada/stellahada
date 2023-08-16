@@ -1,9 +1,4 @@
-### olá eu sou a stella ☺
 
-<div align="rigth">
-  <a href="https://github.com/stellahada">
-    <img width="50%" src = "https://github-readme-stats.vercel.app/api?username=stellahada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-     
   
   <div align="rigth">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,4 +8,4 @@
    
   </div>
   
-![](https://raw.githubusercontent.com/stellahada/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/stellahada/stellahada/output/github-contribution-grid-snake.svg)
