@@ -1,6 +1,6 @@
 ### Oi :)
 <hr>
-- Analise e Desenvolvimento de Sistemas - Centro Universitario Senac
+- Analise e Desenvolvimento de Sistemas | Centro Universitario Senac
 
  
 <picture>
