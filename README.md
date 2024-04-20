@@ -1,14 +1,6 @@
-### Oi :)
-<hr>
-- Analise e Desenvolvimento de Sistemas | Centro Universitario Senac
-
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
-
+# Oi, eu sou Stella ツ
+- Analise e Desenvolvimento de Sistemas | Centro Universitario Senac 🖥️
+- Apple Developer Academy | Senac - 2024/2025 🍎
  ![](https://raw.githubusercontent.com/stellahada/stellahada/output/github-contribution-grid-snake.svg)
 
  <div align="rigth">
