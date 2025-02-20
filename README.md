@@ -7,6 +7,20 @@
   <a href="https://instagram.com/hadastella" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:stellacavalcante2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<div>
+            <img height="180em" src="https://github-readme-stats-ss.vercel.app/api?username=stellahada&show_icons=true&theme=dracula"/>
+            <img height="180em" src="https://github-readme-stats-ss.vercel.app/api/top-langs/?username=stellahada&layout=compact&theme=dracula"/>
+</div>
+
+ <div align="rigth">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png">
+    <img align="center" height="30" width="30"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7b2b8c4e-abd8-42d5-a6b5-810b70d34962/d82sy8p-5e7766c6-44b1-4f2b-9192-a1ee3071ba55.png" />
+ 
+  </div>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -22,11 +36,4 @@
   />
 </picture>
 
- <div align="rigth">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png">
-    <img align="center" height="30" width="30"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7b2b8c4e-abd8-42d5-a6b5-810b70d34962/d82sy8p-5e7766c6-44b1-4f2b-9192-a1ee3071ba55.png" />
- 
-  </div>
+
