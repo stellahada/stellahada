@@ -1,10 +1,9 @@
 # hi, i'm Stella. I code, create, innovate.  ツ
 E aí! 👋 Sou uma desenvolvedora de software apaixonada por criar coisas que funcionam tão bem quanto parecem.
 
-Passei os últimos dois anos vivendo o sonho do desenvolvimento iOS na Apple Academy, mas não se engane: graças à minha faculdade de ADS, minha base técnica é agnóstica.
+Passei os últimos dois anos na Apple Academy focada em qualidade de produto e experiência do usuário, o que me ensinou exatamente o que uma aplicação precisa receber do servidor para brilhar. Graças à minha base em ADS, minha técnica é agnóstica e focada em performance.
 
-Amo Swift, mas tenho a fundação necessária (e a curiosidade!) para mergulhar em qualquer linguagem ou desafio novo. Se tem código envolvido, eu tô dentro.
-
+Amo Swift, mas meu foco atual é arquitetura e Back-End. Tenho a fundação necessária para mergulhar em qualquer stack, construir APIs escaláveis e resolver problemas complexos de lógica. Se tem código e desafio envolvidos, eu tô dentro.
   
 # Contato 🌐
   <a href="https://www.linkedin.com/in/hadastella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
